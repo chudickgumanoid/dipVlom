@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,regular,500,700,900&display=swap&subset=cyrillic-ext");
+
+@font-face {
+  font-family: "UniSans";
+  font-display: swap;
+  src: url("../fonts/uni_sans_heavy-webfont.woff") format("woff"), url("../fonts/uni_sans_heavy-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Play";
+  font-display: swap;
+  src: url("../fonts/play-bold-webfont.woff") format("woff"), url("../fonts/play-bold-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;700&display=swap');
+
+
+@font-face {
+    font-family: 'MusticaPro';
+    src: url('../fonts/MusticaPro-SemiBold.eot');
+    src: url('../fonts/MusticaPro-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MusticaPro-SemiBold.woff2') format('woff2'),
+        url('../fonts/MusticaPro-SemiBold.woff') format('woff'),
+        url('../fonts/MusticaPro-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'PTRoot';
+    src: url('../fonts/PTRootUI-Light.eot');
+    src: url('../fonts/PTRootUI-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PTRootUI-Light.woff2') format('woff2'),
+        url('../fonts/PTRootUI-Light.woff') format('woff'),
+        url('../fonts/PTRootUI-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
